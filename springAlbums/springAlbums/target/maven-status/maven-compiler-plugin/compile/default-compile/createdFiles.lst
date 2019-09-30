@@ -1,0 +1,11 @@
+com\albums\springAlbums\models\User.class
+com\albums\springAlbums\controllers\UserController.class
+com\albums\springAlbums\SpringAlbumsApplication.class
+com\albums\springAlbums\models\Geo.class
+com\albums\springAlbums\models\Album.class
+com\albums\springAlbums\services\UserService.class
+com\albums\springAlbums\models\Address.class
+com\albums\springAlbums\services\UserService$1.class
+com\albums\springAlbums\repository\UserRepository.class
+com\albums\springAlbums\services\UserService$2.class
+com\albums\springAlbums\models\Company.class
